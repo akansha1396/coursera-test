@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <link rel="stylesheet" type="text/css"href="makeover.css">
+    <title>my first page</title>
+    
+    
+    
+</head>
+    
+    <body>
+        
+        <h1>my first webpage mine</h1>
+        <h2>hi this is akansha </h2>
+        <img src="ebfc25cc9f105e27e2ed4f0f50bc434a.jpg">
+        <p>deepika here</p>
+        <a href="http://www.google.com"target=_blank>link to google website</a>
+        <a href="Screenshot_2019-12-25-17-17-30-506_com.facebook.lite.png"target="_blank">see the pic</a>
+        
+        <h1><p>this is ranveer</p></h1>
+        <h2>what is vanilla</h2>
+        <p class="alpha-text"></p>
+        <h3>my name is akku </h3>
+        <h4>lets walk</h4>
+        <h5>can we do </h5>
+        
+    
+    
+    </body>
 
-You can use the [editor on GitHub](https://github.com/akansha1396/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akansha1396/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
